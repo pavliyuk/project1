@@ -38,12 +38,12 @@ Besides, huge numbers of cooked rams, And many chickens, geese,
 and even clams For everyone to eat his fill."
  ```
  81.
- ```
-
+```
+yes-yes-yes
 ```
 82.
  ```
-
+no-no-no
 
 ```
 83.
